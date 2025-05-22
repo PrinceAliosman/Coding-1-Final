@@ -5,10 +5,15 @@ body{
     color: #333;
 }
 
-/*Index Page*/
+h1{
+    text-align: center;
+    color: #be901a;
+    font-size: 2.5rem;
+}
+
 footer{
     text-align: center;
-    background-color: #be901a;
+    background-color: #eecd79;
     padding: 15px;
 }
 
@@ -31,10 +36,4 @@ footer{
     width: 50px;
     border: 1px solid #be901a;
     
-}
-
-h1{
-    text-align: center;
-    color: #be901a;
-    font-size: 2.5rem;
 }
